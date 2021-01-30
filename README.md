@@ -2,9 +2,9 @@
 
 Here, we introduce the implementation of the proposed model and fusion methods with variation-stable.
 
-Please download the ipynb and sample example dataset to run the code. Sample example dataset comes from PRRB [2].
+Please download the ipynb to see the sample results. If you want to access the sample example dataset, please email to daeyon.hwang@mail.utoronto.ca.
 
-Yet, sample result is included in ipynb where you can observe the outputs of this stage. 
+For reference, sample example dataset comes from PRRB [2].
 
 To investigate the result of different true user ID, search the 'Set Target Subject' and change the variable ‘ID’ to a different value ranging from 1 to 42. 
 

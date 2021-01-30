@@ -8,7 +8,7 @@ Yet, sample result is included in ipynb where you can observe the outputs of thi
 
 To investigate the result of different true user ID, search the 'Set Target Subject' and change the variable ‘ID’ to a different value ranging from 1 to 42. 
 
-The data (Example_database.mat) and the code (Code_Simulation.ipynb) should be placed in the same directory. 
+The data (Example_database.mat) and the code (ICASSP_2021_Code.ipynb) should be placed in the same directory. 
 
 
 Dae Yon Hwang

@@ -11,7 +11,10 @@ To investigate the result of different true user ID, search the 'Set Target Subj
 The data (Example_database.mat) and the code (ICASSP_2021_Code.ipynb) should be placed in the same directory. 
 
 
+Thank you!
+
 Dae Yon Hwang
+
 
 
 [1] Dae Yon Hwang, Bilal Taha, Dimitrios Hatzinakos. "VARIATION-STABLE FUSION FOR PPG-BASED BIOMETRIC SYSTEM" ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021.

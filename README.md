@@ -1,4 +1,4 @@
-# Thank you for considering a Code for this paper[1] (ICASSP2021)
+# Thank you for considering a Code for this paper[1] 
 
 Here, we introduce the implementation of the proposed model and fusion methods with variation-stable.
 

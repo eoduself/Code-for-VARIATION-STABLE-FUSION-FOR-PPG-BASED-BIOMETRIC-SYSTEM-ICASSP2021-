@@ -2,9 +2,9 @@
 
 Here, we introduce the implementation of the proposed model and fusion methods with variation-stable.
 
-Please download the ipynb to see the sample results. If you want to access the sample example dataset, please email to daeyon.hwang@mail.utoronto.ca.
+Please download the ipynb to see the sample results. If you want to access the Example_database.mat, please email to daeyon.hwang@mail.utoronto.ca.
 
-For reference, sample example dataset comes from PRRB [2].
+For reference, Example_database.mat comes from PRRB [2].
 
 To investigate the result of different true user ID, search the 'Set Target Subject' and change the variable ‘ID’ to a different value ranging from 1 to 42. 
 

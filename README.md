@@ -15,7 +15,11 @@ Thank you!
 
 Dae Yon Hwang
 
-<style> Attention!!!: We made a mistake on citation of paper in final version - In Table 4 (b), it should be [8], not [7]. Sorry for confusion! {color:Red;} </style>
+<style>
+H1{color:Blue !important;}
+</style>
+# Color Attention!!!: We made a mistake on citation of paper in final version - In Table 4 (b), it should be [8], not [7]. Sorry for confusion! {color:Red;}
+
 
 [1] Dae Yon Hwang, Bilal Taha, Dimitrios Hatzinakos. "VARIATION-STABLE FUSION FOR PPG-BASED BIOMETRIC SYSTEM" ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2021.
 
